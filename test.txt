@@ -9,3 +9,5 @@ New line!
 This time with a unicorn!
 
 and chocolate!
+
+Fork Test
